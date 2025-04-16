@@ -1,0 +1,5 @@
+C:\Users\new\Documents\c#\교수님이 뿌려준 코드\WEEK04-15\WEEK04-15\obj\Debug\WEEK04-15.csproj.AssemblyReference.cache
+C:\Users\new\Documents\c#\교수님이 뿌려준 코드\WEEK04-15\WEEK04-15\obj\Debug\Week04Homework.FormManager.resources
+C:\Users\new\Documents\c#\교수님이 뿌려준 코드\WEEK04-15\WEEK04-15\obj\Debug\WEEK04_15.Properties.Resources.resources
+C:\Users\new\Documents\c#\교수님이 뿌려준 코드\WEEK04-15\WEEK04-15\obj\Debug\WEEK04-15.csproj.GenerateResource.cache
+C:\Users\new\Documents\c#\교수님이 뿌려준 코드\WEEK04-15\WEEK04-15\obj\Debug\WEEK04-15.csproj.CoreCompileInputs.cache
