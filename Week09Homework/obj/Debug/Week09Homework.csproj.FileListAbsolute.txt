@@ -1,0 +1,10 @@
+C:\Users\PC\Downloads\Week09Homework\obj\Debug\Week09Homework.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Week09Homework\obj\Debug\Week09Homework.FormManager.resources
+C:\Users\PC\Downloads\Week09Homework\obj\Debug\Week09Homework.Properties.Resources.resources
+C:\Users\PC\Downloads\Week09Homework\obj\Debug\Week09Homework.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Week09Homework\obj\Debug\Week09Homework.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Week09Homework\bin\Debug\Week09Homework.exe.config
+C:\Users\PC\Downloads\Week09Homework\bin\Debug\Week09Homework.exe
+C:\Users\PC\Downloads\Week09Homework\bin\Debug\Week09Homework.pdb
+C:\Users\PC\Downloads\Week09Homework\obj\Debug\Week09Homework.exe
+C:\Users\PC\Downloads\Week09Homework\obj\Debug\Week09Homework.pdb
